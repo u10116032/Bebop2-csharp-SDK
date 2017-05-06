@@ -1,10 +1,10 @@
 # Bebop2-C-SDK
-#Parrot Bebop2  SDK in C# for standalone PC
+Parrot Bebop2  SDK in C# for standalone PC
 
-#1. Introduction: 
+1. Introduction: 
     This is a C# SDK for Parrot Bebop2 pilotting. You can pilot the raw/yaw/pitch of the drone. Since this project is just started, it doesn't provide complete function as official SDK. I will keep updating the rest functions in the future.
 
-#2. Bebop Command Type: 
+2. Bebop Command Type: 
 
     (a) Each frame sent to drone includes:
             • Data type (1 byte)
@@ -19,11 +19,11 @@
             • Class ID in the project/feature (1 byte)
             • Command ID in the class (2 bytes)
 
-#3. The wifi connection:
+3. The wifi connection:
 
     The drone discovering command is sent to the drone in TCP, and the other commands are sent in UDP.
 
-#4. How to use: 
+4. How to use: 
 
     Just need to use the namespace "drone_UDP".
 
@@ -38,7 +38,7 @@
         videoEnable() : start the video streaming of the drone. You can open the sdp file to watch the video from the drone.
         cancleAllTask() : stop all the thread running in the background. (It will make the drone stop but loose the connection of the drone.)
 
-#5. NOTICE:
+5. NOTICE:
 
     Since this project is just started, it doesn't provide complete function as official SDK. I only implement the drone movement control command, which is roughly send the moving command to the drone but don't receive any return message from the drone.
 
