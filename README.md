@@ -29,6 +29,7 @@ Parrot Bebop2  SDK in C# for standalone PC
     Just need to use the namespace "drone_UDP".
 
     Step 1. new a BebopCommand object
+
     Step 2. use the pilot command in the object and enjoy it.
 
     * pilot command : 
