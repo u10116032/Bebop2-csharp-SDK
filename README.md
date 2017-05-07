@@ -1,6 +1,6 @@
 # Bebop2-C#-SDK (for standalone PC & UWP)
 
-    NOTICE:
+0. NOTICE:
 
     Since this project is just started, it doesn't provide complete function as official SDK. I only implement the drone movement control command, which is roughly send the moving command to the drone but don't receive any return message from the drone.
 
@@ -9,6 +9,7 @@
 
 
 1. Introduction: 
+
     This is a C# SDK for Parrot Bebop2 pilotting. You can pilot the drone by setting the raw/yaw/pitch of the drone. Since this project is just started, it doesn't provide complete function as official SDK. I will keep updating the rest functions in the future.
 
 2. Bebop Command Type: 
