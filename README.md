@@ -1,5 +1,5 @@
-# Bebop2-C#-SDK
-Parrot Bebop2  SDK in C# for standalone PC
+# Bebop2-C#-SDK (standalone PC & UWP)
+Parrot Bebop2  SDK in C# for standalone PC & UWP
 
 1. Introduction: 
     This is a C# SDK for Parrot Bebop2 pilotting. You can pilot the raw/yaw/pitch of the drone. Since this project is just started, it doesn't provide complete function as official SDK. I will keep updating the rest functions in the future.
