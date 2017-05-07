@@ -31,9 +31,9 @@
 
 3. The wifi connection:
 
-    • IP: 192.168.42.1
-    • The drone discovering command is sent to the drone in TCP, port: 44444
-    • The other commands are sent to drone in UDP, port: 54321
+        • IP: 192.168.42.1
+        • The drone discovering command is sent to the drone in TCP, port: 44444
+        • The other commands are sent to drone in UDP, port: 54321
 
 4. How to use: 
 
