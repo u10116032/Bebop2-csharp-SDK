@@ -42,7 +42,7 @@ Parrot Bebop2  SDK in C# for standalone PC
 
         • move(int flag, int roll, int pitch, int yaw, int gaz) : pilot the drone through raw/yaw/pitch. All the parameters are described in the sameple file "Program.cs".
 
-        • videoEnable() : start the video streaming of the drone. You can open the sdp file to watch the video from the drone.
+        • videoEnable() : start the video streaming of the drone. You can open the sdp file (by VLC) to watch the video from the drone.
 
         • cancleAllTask() : stop all the thread running in the background. (It will make the drone stop but loose the connection of the drone.)
 
@@ -50,5 +50,5 @@ Parrot Bebop2  SDK in C# for standalone PC
 
     Since this project is just started, it doesn't provide complete function as official SDK. I only implement the drone movement control command, which is roughly send the moving command to the drone but don't receive any return message from the drone.
 
-    Because the streaming type is RTP/.H264 and this project is going to be used in UWP file, I'm still thinking that how to decode the RTP/H264 package on the UWP device. So basically if you want to watch the video from the drone, you need to start the video streaming and open the SDP file provided by the official.
+    Because the streaming type is RTP/.H264 and this project is going to be used in UWP file, I'm still thinking that how to decode the RTP/H264 package on the UWP device. So basically if you want to watch the video from the drone, you need to start the video streaming and open the SDP file (by VLC) provided by the official.
     
