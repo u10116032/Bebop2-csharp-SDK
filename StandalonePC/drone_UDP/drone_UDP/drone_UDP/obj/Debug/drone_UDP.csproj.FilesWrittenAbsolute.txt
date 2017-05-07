@@ -1,0 +1,16 @@
+/Users/halley/Desktop/drone_UDP/drone_UDP/drone_UDP/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/halley/Desktop/drone_UDP/drone_UDP/drone_UDP/bin/Debug/drone_UDP.exe.config
+/Users/halley/Desktop/drone_UDP/drone_UDP/drone_UDP/bin/Debug/drone_UDP.exe.mdb
+/Users/halley/Desktop/drone_UDP/drone_UDP/drone_UDP/bin/Debug/drone_UDP.pdb
+/Users/halley/Desktop/drone_UDP/drone_UDP/drone_UDP/bin/Debug/drone_UDP.exe
+/Users/halley/Desktop/drone_UDP/drone_UDP/drone_UDP/obj/Debug/drone_UDP.exe
+/Users/halley/Desktop/drone_UDP/drone_UDP/drone_UDP/obj/Debug/drone_UDP.exe.mdb
+/Users/halley/Desktop/drone_UDP/drone_UDP/drone_UDP/obj/Debug/drone_UDP.pdb
+/Users/halley/Desktop/NTU_CSIE/imLab/Tai-Chi/drone_UDP/for Standalone/drone_UDP/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/halley/Desktop/NTU_CSIE/imLab/Tai-Chi/drone_UDP/for Standalone/drone_UDP/bin/Debug/drone_UDP.exe.config
+/Users/halley/Desktop/NTU_CSIE/imLab/Tai-Chi/drone_UDP/for Standalone/drone_UDP/bin/Debug/drone_UDP.exe.mdb
+/Users/halley/Desktop/NTU_CSIE/imLab/Tai-Chi/drone_UDP/for Standalone/drone_UDP/bin/Debug/drone_UDP.pdb
+/Users/halley/Desktop/NTU_CSIE/imLab/Tai-Chi/drone_UDP/for Standalone/drone_UDP/bin/Debug/drone_UDP.exe
+/Users/halley/Desktop/NTU_CSIE/imLab/Tai-Chi/drone_UDP/for Standalone/drone_UDP/obj/Debug/drone_UDP.exe
+/Users/halley/Desktop/NTU_CSIE/imLab/Tai-Chi/drone_UDP/for Standalone/drone_UDP/obj/Debug/drone_UDP.exe.mdb
+/Users/halley/Desktop/NTU_CSIE/imLab/Tai-Chi/drone_UDP/for Standalone/drone_UDP/obj/Debug/drone_UDP.pdb

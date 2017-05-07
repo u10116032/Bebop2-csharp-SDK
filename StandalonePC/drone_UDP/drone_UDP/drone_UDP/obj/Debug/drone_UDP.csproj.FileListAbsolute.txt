@@ -1,0 +1,12 @@
+E:\HLWang\drone_UDP\drone_UDP\drone_UDP\bin\Debug\drone_UDP.exe.config
+E:\HLWang\drone_UDP\drone_UDP\drone_UDP\bin\Debug\drone_UDP.exe
+E:\HLWang\drone_UDP\drone_UDP\drone_UDP\bin\Debug\drone_UDP.pdb
+E:\HLWang\drone_UDP\drone_UDP\drone_UDP\obj\Debug\drone_UDP.csprojResolveAssemblyReference.cache
+E:\HLWang\drone_UDP\drone_UDP\drone_UDP\obj\Debug\drone_UDP.exe
+E:\HLWang\drone_UDP\drone_UDP\drone_UDP\obj\Debug\drone_UDP.pdb
+C:\HLWang\drone_UDP\drone_UDP\drone_UDP\bin\Debug\drone_UDP.exe.config
+C:\HLWang\drone_UDP\drone_UDP\drone_UDP\obj\Debug\drone_UDP.exe
+C:\HLWang\drone_UDP\drone_UDP\drone_UDP\obj\Debug\drone_UDP.pdb
+C:\HLWang\drone_UDP\drone_UDP\drone_UDP\bin\Debug\drone_UDP.exe
+C:\HLWang\drone_UDP\drone_UDP\drone_UDP\bin\Debug\drone_UDP.pdb
+C:\HLWang\drone_UDP\drone_UDP\drone_UDP\obj\Debug\drone_UDP.csprojResolveAssemblyReference.cache
