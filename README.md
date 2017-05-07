@@ -10,7 +10,7 @@
 
 1. Introduction: 
 
-    This is a Parrot Bebop2 C# pilot SDK for standalone PC and UWP. You can pilot the drone by setting the raw/yaw/pitch of the drone. Since this project is just started, it doesn't provide complete function as official SDK. I will keep updating the rest functions in the future.
+    This is a Parrot Bebop2 C# pilot SDK for standalone PC and UWP. You can pilot the drone by setting the raw/yaw/pitch of the drone, and enable the video streaming from bebop. Since this project is just started, it doesn't provide complete function as official SDK. I will keep updating the rest functions in the future.
 
 
 2. Bebop Command Type: 
