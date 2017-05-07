@@ -1,11 +1,10 @@
-# Bebop2-C#-SDK (standalone PC & UWP)
-Parrot Bebop2  SDK in C# for standalone PC & UWP 
+# Bebop2-C#-SDK (for standalone PC & UWP)
 
-NOTICE:
+    NOTICE:
 
-Since this project is just started, it doesn't provide complete function as official SDK. I only implement the drone movement control command, which is roughly send the moving command to the drone but don't receive any return message from the drone.
+    Since this project is just started, it doesn't provide complete function as official SDK. I only implement the drone movement control command, which is roughly send the moving command to the drone but don't receive any return message from the drone.
 
-Because the streaming type is RTP/.H264 and this project is going to be used in UWP file, I'm still thinking that how to decode the RTP/H264 package on the UWP device. So basically if you want to watch the video from the drone right now, you need to enable the video streaming of the drone and open the SDP file (by VLC) which is provided by the official.
+    Because the streaming type is RTP/.H264 and this project is going to be used in UWP file, I'm still thinking that how to decode the RTP/H264 package on the UWP device. So basically if you want to watch the video from the drone right now, you need to enable the video streaming of the drone and open the SDP file (by VLC) which is provided by the official.
 
 
 
