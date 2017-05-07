@@ -35,9 +35,13 @@ Parrot Bebop2  SDK in C# for standalone PC
     * pilot command : 
 
         • takeoff() : make the drone takeoff.
+
         • landing() : make the drone landing.
+
         • move(int flag, int roll, int pitch, int yaw, int gaz) : pilot the drone through raw/yaw/pitch. All the parameters are described in the sameple file "Program.cs".
+
         • videoEnable() : start the video streaming of the drone. You can open the sdp file to watch the video from the drone.
+
         • cancleAllTask() : stop all the thread running in the background. (It will make the drone stop but loose the connection of the drone.)
 
 5. NOTICE:
