@@ -1,4 +1,4 @@
-# Bebop2-C-SDK
+# Bebop2-C#-SDK
 Parrot Bebop2  SDK in C# for standalone PC
 
 1. Introduction: 
